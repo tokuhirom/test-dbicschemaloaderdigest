@@ -7,6 +7,4 @@ requires 'Exporter'    => 5.58;
 requires 'Digest::MD5' => 2.36;
 
 build_requires 'YAML';
-use_test_base;
-auto_include;
 WriteAll;
